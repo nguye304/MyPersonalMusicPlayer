@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersonalMusicPlayer</string>
+    <string name="song_name">Name</string>
+    <string name="song_artist">Artist</string>
+    <string name="song_album">Album</string>
+    <string name="Play">Play</string>
+</resources>
